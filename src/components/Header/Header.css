@@ -1,0 +1,25 @@
+.nav-container{
+    height: 80px;
+    background:#1C2B35;
+    padding: 0 140px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-items li{
+    display: inline-block;
+    list-style: none;
+}
+
+.menu-items li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 40px;
+}
+
+.menu-items li a:hover{
+    color: orange;
+}
