@@ -1,7 +1,9 @@
 .cart-content{
-    padding: 0 15px;
+    padding: 15px;
+    background: #FFE0B3;
     position: sticky;
     top: 0;
+    
 }
 
 .summary-title{
